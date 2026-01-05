@@ -1,4 +1,4 @@
-# SWILL Local OSINT & Secure Messenger Toolkit
+#  Local OSINT & Secure Messenger Toolkit
 
 Локальный OSINT-инструмент + подготовка ИИ и аналитических модулей.
 Работает полностью локально. Подходит для исследовательских и образовательных целей.
